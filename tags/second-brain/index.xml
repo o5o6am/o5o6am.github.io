@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Second Brain | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/second-brain/</link>
-      <atom:link href="https://example.com/tags/second-brain/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/second-brain/</link>
+      <atom:link href="http://localhost:1313/tags/second-brain/index.xml" rel="self" type="application/rss+xml" />
     <description>Second Brain</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Second Brain</title>
-      <link>https://example.com/tags/second-brain/</link>
+      <link>http://localhost:1313/tags/second-brain/</link>
     </image>
     
     <item>
       <title>🧠 Пост по неделе 05.05-11.05</title>
-      <link>https://example.com/post/4_week/</link>
+      <link>http://localhost:1313/post/4_week/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/4_week/</guid>
+      <guid>http://localhost:1313/post/4_week/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -126,9 +126,9 @@
     
     <item>
       <title>🧠 Языки научного программирования</title>
-      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B3%D0%B8_%D0%BF%D0%BE%D1%81%D1%82/</link>
+      <link>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B3%D0%B8_%D0%BF%D0%BE%D1%81%D1%82/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B3%D0%B8_%D0%BF%D0%BE%D1%81%D1%82/</guid>
+      <guid>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B3%D0%B8_%D0%BF%D0%BE%D1%81%D1%82/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
