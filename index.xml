@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>  | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/</link>
+      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description> </description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
       <title> </title>
-      <link>http://localhost:1313/</link>
+      <link>https://example.com/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/event/example/</link>
+      <link>https://example.com/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
+      <guid>https://example.com/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -34,10 +34,93 @@
     </item>
     
     <item>
+      <title>👩🏼‍🏫Прохождение внешнего курса.</title>
+      <link>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%BD%D0%B5%D1%88_%D0%BA%D1%83%D1%80%D1%81%D0%B0/</link>
+      <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%BD%D0%B5%D1%88_%D0%BA%D1%83%D1%80%D1%81%D0%B0/</guid>
+      <description>&lt;h2 id=&#34;внешний-курс-на-степике&#34;&gt;Внешний курс на степике&lt;/h2&gt;
+&lt;p&gt;Во время прохождения учебного курса &amp;ldquo;Операционные системы&amp;rdquo; мне было предложено пройти внешний курс &amp;ldquo;Введение в Linux&amp;rdquo;. Я полностью прошла этот курс и получила сертификат с отличием.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://stepik.org/cert/2846398&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://stepik.org/cert/2846398&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Название рисунка&#34; srcset=&#34;
+               /post/%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%BD%D0%B5%D1%88_%D0%BA%D1%83%D1%80%D1%81%D0%B0/1_hu_c0b881edf4d9218b.webp 400w,
+               /post/%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%BD%D0%B5%D1%88_%D0%BA%D1%83%D1%80%D1%81%D0%B0/1_hu_81fe1a9838c0c9c5.webp 760w,
+               /post/%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%BD%D0%B5%D1%88_%D0%BA%D1%83%D1%80%D1%81%D0%B0/1_hu_b4c57120cd231095.webp 1200w&#34;
+               src=&#34;https://example.com/post/%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2%D0%BD%D0%B5%D1%88_%D0%BA%D1%83%D1%80%D1%81%D0%B0/1_hu_c0b881edf4d9218b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;538&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+{#fig:001 width=90%}&lt;/p&gt;
+&lt;h2 id=&#34;прохождение-курса&#34;&gt;Прохождение курса&lt;/h2&gt;
+&lt;p&gt;Во время прохождения курса я прошла следующие темы:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Введение в Linux&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Основные понятия: что такое Linux, отличия от других ОС.&lt;/p&gt;
+&lt;p&gt;История и философия Linux.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Установка Linux&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Варианты установки (нативный, виртуальная машина, LiveCD).&lt;/p&gt;
+&lt;p&gt;Разделы диска и базовая настройка.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Основы командной строки&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Навигация по файловой системе (cd, ls, pwd).&lt;/p&gt;
+&lt;p&gt;Работа с файлами и каталогами (mkdir, touch, rm, cp, mv).&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Права доступа&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Понятие пользователей и групп.&lt;/p&gt;
+&lt;p&gt;Команды chmod, chown, umask.&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Процессы и управление ими&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Команды ps, top, kill, jobs, bg, fg.&lt;/p&gt;
+&lt;p&gt;Управление демонами (systemd, службы).&lt;/p&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;Сети в Linux&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Основные сетевые утилиты (ping, ifconfig, netstat, ssh).&lt;/p&gt;
+&lt;p&gt;Настройка подключения.&lt;/p&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;Пакетные менеджеры&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Установка ПО (apt, yum, dpkg, rpm).&lt;/p&gt;
+&lt;p&gt;Обновление системы.&lt;/p&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;Основы скриптинга (bash)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Простые скрипты, переменные, условия, циклы.&lt;/p&gt;
+&lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
+&lt;p&gt;Мне понравилось проходить этот курс. Как мне ккажется, он идеально подходит для тех, кто только знакомится с линуксом, и для тех, кто просто хочет освежить свои знания. В моем случае, главной целью было освежить некоторые знания с прошлого семестра, и чуть чуть углубиться в написание скриптов на bash. Я считаю, что смогла достичь этой цели, и курс мне в этом очень помог.&lt;/p&gt;
+&lt;p&gt;&amp;mdash;🙌&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>👩🏼‍🏫 Язык разметки Markdown.</title>
-      <link>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8_%D0%BF%D0%BE%D1%81%D1%82/</link>
+      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8_%D0%BF%D0%BE%D1%81%D1%82/</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8_%D0%BF%D0%BE%D1%81%D1%82/</guid>
+      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8_%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8_%D0%BF%D0%BE%D1%81%D1%82/</guid>
       <description>&lt;h2 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h2&gt;
 &lt;p&gt;Markdown — удобочитаемый язык разметки, который прозрачно конвертируется в HTML. Его можно открывать и изменять в любом редакторе текста. Широко используется для написания документаций и README-файлов.&lt;/p&gt;
 &lt;h2 id=&#34;основные-команды-markdown&#34;&gt;Основные команды Markdown&lt;/h2&gt;
@@ -78,9 +161,9 @@ Markdown легко конвертируется в HTML, открывается
     
     <item>
       <title>👩🏼‍🏫 Пост по неделе 07.04-13.04</title>
-      <link>http://localhost:1313/post/2_week/</link>
+      <link>https://example.com/post/2_week/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2_week/</guid>
+      <guid>https://example.com/post/2_week/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Неделя 07.04-13.04&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;На этой неделе ничего интересного в принципе не было&amp;hellip; Я написала контрольную работу по математической логике, поучаствовала в мероприятии школа ик, сходила в кафе с подругами, сделала еще одну лабораторную работу, выполнила доклад по операционным системам.&lt;/p&gt;
 </description>
@@ -88,9 +171,9 @@ Markdown легко конвертируется в HTML, открывается
     
     <item>
       <title>📈 Как оформить отчет в Markdown?</title>
-      <link>http://localhost:1313/post/oformlenie_otcheta_post/</link>
+      <link>https://example.com/post/oformlenie_otcheta_post/</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/oformlenie_otcheta_post/</guid>
+      <guid>https://example.com/post/oformlenie_otcheta_post/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -101,7 +184,7 @@ Markdown легко конвертируется в HTML, открывается
 
 
 
-&lt;div id=&#34;chart-174839526&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-458761329&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -119,7 +202,7 @@ Markdown легко конвертируется в HTML, открывается
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-174839526&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-458761329&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -298,9 +381,9 @@ Crash --&gt; [*]
     
     <item>
       <title>✅ Управление версиями. Git</title>
-      <link>http://localhost:1313/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_git_%D0%BF%D0%BE%D1%81%D1%82/</link>
+      <link>https://example.com/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_git_%D0%BF%D0%BE%D1%81%D1%82/</link>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_git_%D0%BF%D0%BE%D1%81%D1%82/</guid>
+      <guid>https://example.com/post/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_git_%D0%BF%D0%BE%D1%81%D1%82/</guid>
       <description>&lt;p&gt;Git — это система для управления версиями исходного кода программ.&lt;/p&gt;
 &lt;h2 id=&#34;git--надежный-помощник-в-коде&#34;&gt;Git — надежный помощник в коде&lt;/h2&gt;
 &lt;p&gt;Git — это как &amp;ldquo;машина времени&amp;rdquo; для разработчика. Каждый раз, когда ты сохраняешь изменения (&lt;code&gt;commit&lt;/code&gt;), Git фиксирует состояние кода. Ошибся? Всегда можно вернуться!&lt;/p&gt;
@@ -332,18 +415,18 @@ Crash --&gt; [*]
     
     <item>
       <title>✅ Неделя 17.03-23.03</title>
-      <link>http://localhost:1313/post/1_week/</link>
+      <link>https://example.com/post/1_week/</link>
       <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/1_week/</guid>
+      <guid>https://example.com/post/1_week/</guid>
       <description>&lt;p&gt;Прошла еще одна учебная неделя. На этой неделе в основном занималась учебными делами: подготовкой к контрольной работе по маематическому анализу, выполнением лабораторных работ и решением ИДЗ по математической логике. Также провели день открытых дверей в нашем университете, было довольно интересно. При выполнении лабораторных работ в качестве доп. литературы начала читать книгу Эндрю Таненбаума &amp;lsquo;Современные операционные системы&amp;rsquo;. Считаю эту книгу интересной и важной для студентов айти-специальностей&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>📈 Пост по неделе 21.04-27.04</title>
-      <link>http://localhost:1313/post/3_week/</link>
+      <link>https://example.com/post/3_week/</link>
       <pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/3_week/</guid>
+      <guid>https://example.com/post/3_week/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -354,7 +437,7 @@ Crash --&gt; [*]
 
 
 
-&lt;div id=&#34;chart-159672384&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-346792518&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -372,7 +455,7 @@ Crash --&gt; [*]
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-159672384&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-346792518&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -551,17 +634,25 @@ Crash --&gt; [*]
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://example.com/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://example.com/projects/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Курс &#39;Введение в Linux&#39;</title>
+      <link>https://example.com/project/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B8-%D0%BA%D1%83%D1%80%D1%81/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B8-%D0%BA%D1%83%D1%80%D1%81/</guid>
+      <description>&lt;p&gt;Внешний курс Введение в Linux на платформе Stepik от Bioinformatics Institute&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>🎉 Пост на тему по выбору</title>
-      <link>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE%D1%81%D1%82_%D0%BF%D0%BE_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%83/</link>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE%D1%81%D1%82_%D0%BF%D0%BE_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%83/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE%D1%81%D1%82_%D0%BF%D0%BE_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%83/</guid>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE%D1%81%D1%82_%D0%BF%D0%BE_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%83/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -645,9 +736,9 @@ Crash --&gt; [*]
     
     <item>
       <title>🎉 Пост по неделе 19.05-25.05</title>
-      <link>http://localhost:1313/post/5_week/</link>
+      <link>https://example.com/post/5_week/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/5_week/</guid>
+      <guid>https://example.com/post/5_week/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -731,33 +822,33 @@ Crash --&gt; [*]
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
+      <link>https://example.com/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
+      <guid>https://example.com/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
+      <link>https://example.com/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
+      <guid>https://example.com/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
+      <link>https://example.com/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
+      <guid>https://example.com/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🧠 Пост по неделе 05.05-11.05</title>
-      <link>http://localhost:1313/post/4_week/</link>
+      <link>https://example.com/post/4_week/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/4_week/</guid>
+      <guid>https://example.com/post/4_week/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -867,9 +958,9 @@ Crash --&gt; [*]
     
     <item>
       <title>🧠 Языки научного программирования</title>
-      <link>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B3%D0%B8_%D0%BF%D0%BE%D1%81%D1%82/</link>
+      <link>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B3%D0%B8_%D0%BF%D0%BE%D1%81%D1%82/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B3%D0%B8_%D0%BF%D0%BE%D1%81%D1%82/</guid>
+      <guid>https://example.com/post/%D1%8F%D0%B7%D1%8B%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D0%B3%D0%B8_%D0%BF%D0%BE%D1%81%D1%82/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -979,17 +1070,17 @@ Crash --&gt; [*]
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>https://example.com/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>https://example.com/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>http://localhost:1313/teaching/js/</link>
+      <link>https://example.com/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/js/</guid>
+      <guid>https://example.com/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -1032,7 +1123,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://example.com/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1109,9 +1200,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>http://localhost:1313/teaching/python/</link>
+      <link>https://example.com/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/python/</guid>
+      <guid>https://example.com/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -1154,7 +1245,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://example.com/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1230,19 +1321,11 @@ data.head()
     </item>
     
     <item>
-      <title>Курс &#39;Введение в Linux&#39;</title>
-      <link>http://localhost:1313/project/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B8-%D0%BA%D1%83%D1%80%D1%81/</link>
-      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B8-%D0%BA%D1%83%D1%80%D1%81/</guid>
-      <description>&lt;p&gt;Внешний курс Введение в Linux на платформе Stepik от Bioinformatics Institute&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>An example preprint / working paper</title>
-      <link>http://localhost:1313/publication/preprint/</link>
+      <link>https://example.com/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>https://example.com/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://example.com/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1255,9 +1338,9 @@ data.head()
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:1313/publication/journal-article/</link>
+      <link>https://example.com/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
+      <guid>https://example.com/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -1276,9 +1359,9 @@ data.head()
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
+      <link>https://example.com/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <guid>https://example.com/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;

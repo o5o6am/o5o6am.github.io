@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Hugo Academic CV Theme</title>
-    <link>http://localhost:1313/tags/academic/</link>
-      <atom:link href="http://localhost:1313/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/academic/</link>
+      <atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
       <title>Academic</title>
-      <link>http://localhost:1313/tags/academic/</link>
+      <link>https://example.com/tags/academic/</link>
     </image>
     
     <item>
       <title>🎉 Пост на тему по выбору</title>
-      <link>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE%D1%81%D1%82_%D0%BF%D0%BE_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%83/</link>
+      <link>https://example.com/post/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE%D1%81%D1%82_%D0%BF%D0%BE_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%83/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE%D1%81%D1%82_%D0%BF%D0%BE_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%83/</guid>
+      <guid>https://example.com/post/%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B8_%D0%BF%D0%BE%D1%81%D1%82_%D0%BF%D0%BE_%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%83/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -100,9 +100,9 @@
     
     <item>
       <title>🎉 Пост по неделе 19.05-25.05</title>
-      <link>http://localhost:1313/post/5_week/</link>
+      <link>https://example.com/post/5_week/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/5_week/</guid>
+      <guid>https://example.com/post/5_week/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
